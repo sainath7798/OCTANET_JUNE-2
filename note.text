@@ -1,0 +1,11 @@
+First unzip folder 
+open in vscode 
+open terminal 
+
+if your are in this path it ok (but if you are not in this folder command = cd todo-list )
+
+PS E:\Company Projects\todo-list> 
+
+Then npm install 
+
+npm start
